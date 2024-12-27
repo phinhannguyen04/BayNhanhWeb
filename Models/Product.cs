@@ -6,9 +6,12 @@ namespace BayNhanhWeb.Models;
         public string? Name { get; set; }
         public string? Description { get; set; }
         public decimal Price { get; set; }
-        public string? Stock { get; set; }
+        public int? Stock { get; set; }
         public int CategoryId { get; set; }
+
         public Category? Category { get; set; } // A product belongs to a category
+        
         public ICollection<OrderItem>? OrderItems { get; set; } // A product can be in many order items
-        public ICollection<ProductIngredient>? ProductIngredient { get; set; } // A product can have many ingredients
+        
+        public ICollection<ProductIngredient>? ProductIngredients { get; set; } // A product can have many ingredients
     }

@@ -142,3 +142,9 @@
 /home/endrr/C-sharp/BayNhanhMVC/BayNhanhWeb/obj/Debug/net8.0/BayNhanhWeb.pdb
 /home/endrr/C-sharp/BayNhanhMVC/BayNhanhWeb/obj/Debug/net8.0/BayNhanhWeb.genruntimeconfig.cache
 /home/endrr/C-sharp/BayNhanhMVC/BayNhanhWeb/obj/Debug/net8.0/ref/BayNhanhWeb.dll
+/home/endrr/C-sharp/BayNhanhMVC/BayNhanhWeb/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/endrr/C-sharp/BayNhanhMVC/BayNhanhWeb/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/endrr/C-sharp/BayNhanhMVC/BayNhanhWeb/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/endrr/C-sharp/BayNhanhMVC/BayNhanhWeb/bin/Debug/net8.0/MySqlConnector.dll
+/home/endrr/C-sharp/BayNhanhMVC/BayNhanhWeb/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/endrr/C-sharp/BayNhanhMVC/BayNhanhWeb/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
